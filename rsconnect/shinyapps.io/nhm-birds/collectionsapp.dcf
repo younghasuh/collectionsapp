@@ -1,0 +1,13 @@
+name: collectionsapp
+title:
+username: nhm-birds
+account: nhm-birds
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11980027
+bundleId: 8602569
+url: https://nhm-birds.shinyapps.io/collectionsapp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_joint.R|cumv_data.R|README.md|www/cumv.jpg
